@@ -51,3 +51,7 @@ When you are finished with the assignment, push your git repository to GitHub so
 The four plots that you will need to construct are shown below.
 
 
+![](https://github.com/JeanCarloVen/Exploratory-Data-Analysis/blob/master/plot1.png)
+![](https://github.com/JeanCarloVen/Exploratory-Data-Analysis/blob/master/plot2.png)
+![](https://github.com/JeanCarloVen/Exploratory-Data-Analysis/blob/master/plot3.png)
+![](https://github.com/JeanCarloVen/Exploratory-Data-Analysis/blob/master/plot4.png)
